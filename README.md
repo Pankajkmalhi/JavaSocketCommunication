@@ -25,3 +25,6 @@ This GitHub repository contains a Java-based socket communication application wi
 
 This project uses standard Java libraries and does not require any additional dependencies.
 
+## Output
+
+![Output](https://github.com/Pankajkmalhi/JavaSocketCommunication/blob/main/T1.PNG)
